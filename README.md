@@ -11,23 +11,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Mielone2Good/CleanDesk-AI">
+  <a href="https://github.com/Mielone2Good/CleanDesk_AI">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="80">
   </a>
 
-  <h3 align="center">CleanDesk-AI - Smart Local File Organizer</h3>
+  <h3 align="center">CleanDesk_AI - Smart Local File Organizer</h3>
 
   <p align="center">
     Automatically clusters and organizes your desktop files using ML Algorithms and K-Means clustering.
     <br />
-    <a href="https://github.com/Mielone2Good/CleanDesk-AI"><strong>Explore the code »</strong></a>
+    <a href="https://github.com/Mielone2Good/CleanDesk_AI"><strong>Explore the code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mielone2Good/CleanDesk-AI">View Demo</a>
+    <a href="https://github.com/Mielone2Good/CleanDesk_AI">View Demo</a>
     ·
-    <a href="https://github.com/Mielone2Good/CleanDesk-AI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Mielone2Good/CleanDesk_AI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Mielone2Good/CleanDesk-AI/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Mielone2Good/CleanDesk_AI/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 📌 About The Project
 
-**CleanDesk-AI** is a smart desktop/file organizer that uses semantic embeddings and unsupervised learning to cluster similar files into groups, based on their **content**, not filenames. This means your desktop or folder can be cleaned and structured automatically using AI/ML — no manual sorting needed.
+**CleanDesk_AI** is a smart desktop/file organizer that uses semantic embeddings and unsupervised learning to cluster similar files into groups, based on their **content**, not filenames. This means your desktop or folder can be cleaned and structured automatically using AI/ML — no manual sorting needed.
 
 💡 Built for researchers, developers, and productivity geeks who want to bring structure to their chaotic folders.
 
@@ -88,7 +88,7 @@
 
 ## 🧪 Unit Tests
 
-CleanDesk-AI includes unit tests to ensure the accuracy of clustering logic and file processing components.
+CleanDesk_AI includes unit tests to ensure the accuracy of clustering logic and file processing components.
 
 Run them with:
 
@@ -149,14 +149,14 @@ Author: **Mikołaj Jaros (aka MixDevv)**
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Mielone2Good/CleanDesk-AI.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mielone2Good/CleanDesk-AI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mielone2Good/CleanDesk-AI.svg?style=for-the-badge
-[forks-url]: https://github.com/Mielone2Good/CleanDesk-AI/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mielone2Good/CleanDesk-AI.svg?style=for-the-badge
-[stars-url]: https://github.com/Mielone2Good/CleanDesk-AI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mielone2Good/CleanDesk-AI.svg?style=for-the-badge
-[issues-url]: https://github.com/Mielone2Good/CleanDesk-AI/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Mielone2Good/CleanDesk_AI.svg?style=for-the-badge
+[contributors-url]: https://github.com/Mielone2Good/CleanDesk_AI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Mielone2Good/CleanDesk_AI.svg?style=for-the-badge
+[forks-url]: https://github.com/Mielone2Good/CleanDesk_AI/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mielone2Good/CleanDesk_AI.svg?style=for-the-badge
+[stars-url]: https://github.com/Mielone2Good/CleanDesk_AI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mielone2Good/CleanDesk_AI.svg?style=for-the-badge
+[issues-url]: https://github.com/Mielone2Good/CleanDesk_AI/issues
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge
 [license-url]: https://creativecommons.org/licenses/by-nc/4.0/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
