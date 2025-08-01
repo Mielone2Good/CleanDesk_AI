@@ -15,7 +15,7 @@
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="80">
   </a>
 
-  <h3 align="center">CleanDesk-AI - Smart File Organizer</h3>
+  <h3 align="center">CleanDesk-AI - Smart Local File Organizer</h3>
 
   <p align="center">
     Automatically clusters and organizes your desktop files using ML Algorithms and K-Means clustering.
@@ -41,9 +41,9 @@
 
 ### Version 1.1
 
-📁 Automatic file clustering via **K-Means**  
+📁 Automatic file clustering via **K-Means Algorithms**  
 🧠 Embeddings extracted using: `SentenceTransformer('all-MiniLM-L6-v2')`  
-📈 Automatic cluster number estimation using **Silhouette Score**  
+📈 Automatic cluster number estimation using **Silhouette Score Algorithms**  
 🧪 Unit tests included  
 📊 Optional debug visualizations for clusters and embeddings  
 
@@ -52,8 +52,8 @@
 ## 🔍 How It Works
 
 1. **Text extraction** from supported files using `docs_reader.py`
-2. **Embedding generation** for each file using SentenceTransformer
-3. **Clustering** with K-Means (optimal number of clusters is auto-detected)
+2. **Embedding generation** for each file using local(downloaded) SentenceTransformer
+3. **Clustering** with K-Means AI/ML Algorithm (optimal number of clusters is auto-detected)
 4. **Sorting and saving** organized results to labeled folders
 5. Optionally, enable charts and debug output for insights during processing
 
@@ -125,35 +125,27 @@ Author: **Mikołaj Jaros (aka MixDevv)**
 
 ## 📷 Screenshots
 
-### Clustered Files - After Running CleanDesk-AI
+### 2D Chart view - K-means algorithm, Each color is each group. (it reads context inside, not file names)
+<img width="1100" alt="Zrzut ekranu 2025-08-01 195911" src="https://github.com/user-attachments/assets/b5eefec6-19b1-4b20-9f50-fc49a2aa6edc" />
 
-<img width="1100" alt="Zrzut ekranu 2025-07-30 231911" src="https://github.com/user-attachments/assets/7454f429-93c1-4b76-8be9-4444ed72db6c" />
-
----
-
-### Cluster Distribution - Visualization Enabled
-
-<img width="1100" alt="Zrzut ekranu 2025-07-30 231938" src="https://github.com/user-attachments/assets/e2df57ce-c558-42bd-b5d1-7365e23ecdd6" />
+### 2D Chart view - Silhouette Score Algorithm (it predicts number of groups for best results.)
+<img width="1100" alt="Zrzut ekranu 2025-08-01 195859" src="https://github.com/user-attachments/assets/f258efd5-2efc-4489-ae9a-2f74ccc0e26b" />
 
 ---
 
-### File Embeddings Visualized
+### Tests - Ready-To-Test files.
+<img width="300" alt="Zrzut ekranu 2025-08-01 195834" src="https://github.com/user-attachments/assets/fec62421-8612-4933-9dab-2c206a67322e" />
 
-<img width="1100" alt="RequestSent_test_on_phone_ad" src="https://github.com/user-attachments/assets/4559673e-1bc7-40b5-9d23-1ce8b391c2c5" />
-
----
-
-### Final Cluster Labels Assigned
-
-<img width="1100" alt="TestResult_PhoneAd" src="https://github.com/user-attachments/assets/1f4c75dc-f40f-459d-9b51-e13d08f7f944" />
+### Tests - Files after segregation.
+<img width="300" alt="Zrzut ekranu 2025-08-01 195945" src="https://github.com/user-attachments/assets/2c61ddc3-37c9-4dc4-a045-572023ae1227" />
 
 ---
 
-### Unit Tests
-
-<img width="1100" alt="UnitTests_ShopifyTutorial" src="https://github.com/user-attachments/assets/38274e32-d92d-4c71-8b90-df07f94d9251" />
+### Tests - Pandas Dataframe Example
+<img width="1100" alt="Zrzut ekranu 2025-08-01 200001" src="https://github.com/user-attachments/assets/55f73d6f-d361-4469-91cd-72aa56225f4a" />
 
 ---
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
