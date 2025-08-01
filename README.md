@@ -44,6 +44,7 @@
 📁 Automatic file clustering via **K-Means Algorithms**  
 🧠 Embeddings extracted using: `SentenceTransformer('all-MiniLM-L6-v2')`  
 📈 Automatic cluster number estimation using **Silhouette Score Algorithms**  
+📄 Moving files into organized dirs (only numeric dirs for now, see screenshots below)
 🧪 Unit tests included  
 📊 Optional debug visualizations for clusters and embeddings  
 
@@ -55,7 +56,8 @@
 2. **Embedding generation** for each file using local(downloaded) SentenceTransformer
 3. **Clustering** with K-Means AI/ML Algorithm (optimal number of clusters is auto-detected)
 4. **Sorting and saving** organized results to labeled folders
-5. Optionally, enable charts and debug output for insights during processing
+5. **Moving Files** - Moves files into organized dirs.
+6. Optionally, enable charts and debug output for insights during processing
 
 ---
 
@@ -161,6 +163,7 @@ Author: **Mikołaj Jaros (aka MixDevv)**
 [license-url]: https://creativecommons.org/licenses/by-nc/4.0/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mikolajjaros/
+
 
 
 
