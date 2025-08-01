@@ -118,19 +118,3 @@ class AiAlgorithm:
             plt.show()
 
         return best_result
-
-
-
-
-
-if __name__ == '__main__':
-    ai = AiAlgorithm()
-    docs = read_dir('test_files')
-    ai.save_embeddings(docs)
-    k_means = ai.k_means_algorithm(show_chart = True)
-    print(ai.dataframe)
-        
-    
-
-
-
