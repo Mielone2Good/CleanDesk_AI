@@ -1,0 +1,9 @@
+Sales Receipt
+Date: 1st August 2025
+Customer: John Smith
+Service Provided: Creation and maintenance of company website
+Amount Before Tax: USD 2,000
+VAT (Value Added Tax) at 10%: USD 200
+Total Payable: USD 2,200
+
+We appreciate your prompt payment. Should you have any inquiries regarding this invoice, please feel free to reach out to our billing department at support@example.com.
